@@ -1,11 +1,11 @@
   class MiniBadger < Formula
     desc "Your mini-badger description"
     homepage "https://github.com/dderg/mini-badger"
-    version "0.1.4"
+    version "0.1.5"
 
     if OS.mac?
-      url "https://github.com/dderg/mini-badger/releases/download/v0.1.4/mini-badger"
-      sha256 "69e7c467919a20b7a8940c5c5014d7b9817864d989a2ff5a9cd70192d3debff7"
+      url "https://github.com/dderg/mini-badger/releases/download/v0.1.5/mini-badger"
+      sha256 "1d7692940207c58dbb5b963bdf4c6ccf62852fa807d25edcf6154b44c8fd384d"
     end
 
     service do
